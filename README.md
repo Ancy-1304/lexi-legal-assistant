@@ -10,4 +10,4 @@ It allows users to type a legal query and get a mock AI-generated response with 
 
 ## 📸 Screenshot
 
-![Screenshot]("C:\Users\lenovo\OneDrive\Pictures\lexi-legal-assistant screenshot.png")
+<img width="748" height="366" alt="lexi-legal-assistant screenshot" src="https://github.com/user-attachments/assets/666d60ce-dd8d-4e07-a41d-a370cfbe450a" />
