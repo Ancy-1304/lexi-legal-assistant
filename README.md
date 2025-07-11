@@ -6,8 +6,8 @@ It allows users to type a legal query and get a mock AI-generated response with 
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the hosted site on Netlify](https://your-site-name.netlify.app)  
+🔗 [Click here to view the hosted site on Netlify](https://frabjous-baklava-a1d53d.netlify.app/)   
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot]("C:\Users\lenovo\OneDrive\Pictures\lexi-legal-assistant screenshot.png")
